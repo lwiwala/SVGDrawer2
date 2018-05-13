@@ -1,6 +1,8 @@
 # SVGDrawer2
 Simply drawer in SVG for PHP
 
+![alt text](http://lwiwala.ct8.pl/images/svg-drawer2.PNG)
+
 ```php
 <?php
 declare(strict_types=1);
