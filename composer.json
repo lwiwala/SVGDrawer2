@@ -1,5 +1,5 @@
 {
-    "name": "lwiwala/SVGDrawer2",
+    "name": "lwiwala/svg-drawer2",
     "type": "library",
     "description": "Library for svg drawing in PHP",
     "keywords": ["lwiwala", "library", "svg", "draw"],
